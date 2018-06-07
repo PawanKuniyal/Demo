@@ -1,0 +1,54 @@
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\bin\Release\Helpa.Services.dll.config
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\bin\Release\Helpa.Services.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\bin\Release\Helpa.Services.pdb
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\bin\Release\EntityFramework.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\bin\Release\Helpa.Entities.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\bin\Release\Helpa.Entities.pdb
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\bin\Release\Helpa.Entities.dll.config
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\bin\Release\EntityFramework.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\obj\Release\Helpa.Services.csprojResolveAssemblyReference.cache
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\obj\Release\Helpa.Services.csproj.CoreCompileInputs.cache
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\obj\Release\Helpa.Services.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\obj\Release\Helpa.Services.pdb
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\obj\Release\Helpa.Services.csproj.CopyComplete
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\bin\Release\Helpa.StoredProcedures.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\bin\Release\Helpa.StoredProcedures.pdb
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Services\bin\Release\Helpa.StoredProcedures.dll.config
+D:\Helpa15-05-2018\Helpa.Services\bin\Release\Helpa.Services.dll.config
+D:\Helpa15-05-2018\Helpa.Services\bin\Release\Helpa.Services.dll
+D:\Helpa15-05-2018\Helpa.Services\bin\Release\Helpa.Services.pdb
+D:\Helpa15-05-2018\Helpa.Services\bin\Release\EntityFramework.dll
+D:\Helpa15-05-2018\Helpa.Services\bin\Release\EntityFramework.SqlServer.dll
+D:\Helpa15-05-2018\Helpa.Services\bin\Release\Helpa.Entities.dll
+D:\Helpa15-05-2018\Helpa.Services\bin\Release\Helpa.StoredProcedures.dll
+D:\Helpa15-05-2018\Helpa.Services\bin\Release\Helpa.Entities.pdb
+D:\Helpa15-05-2018\Helpa.Services\bin\Release\Helpa.Entities.dll.config
+D:\Helpa15-05-2018\Helpa.Services\bin\Release\Helpa.StoredProcedures.pdb
+D:\Helpa15-05-2018\Helpa.Services\bin\Release\Helpa.StoredProcedures.dll.config
+D:\Helpa15-05-2018\Helpa.Services\bin\Release\EntityFramework.xml
+D:\Helpa15-05-2018\Helpa.Services\bin\Release\EntityFramework.SqlServer.xml
+D:\Helpa15-05-2018\Helpa.Services\obj\Release\Helpa.Services.csprojResolveAssemblyReference.cache
+D:\Helpa15-05-2018\Helpa.Services\obj\Release\Helpa.Services.csproj.CoreCompileInputs.cache
+D:\Helpa15-05-2018\Helpa.Services\obj\Release\Helpa.Services.csproj.CopyComplete
+D:\Helpa15-05-2018\Helpa.Services\obj\Release\Helpa.Services.dll
+D:\Helpa15-05-2018\Helpa.Services\obj\Release\Helpa.Services.pdb
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\bin\Release\Helpa.Services.dll.config
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\bin\Release\Helpa.Services.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\bin\Release\Helpa.Services.pdb
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\bin\Release\EntityFramework.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\bin\Release\EntityFramework.SqlServer.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\bin\Release\Helpa.Entities.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\bin\Release\Helpa.StoredProcedures.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\bin\Release\Helpa.Entities.pdb
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\bin\Release\Helpa.Entities.dll.config
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\bin\Release\Helpa.StoredProcedures.pdb
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\bin\Release\Helpa.StoredProcedures.dll.config
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\bin\Release\EntityFramework.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\bin\Release\EntityFramework.SqlServer.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\obj\Release\Helpa.Services.csprojResolveAssemblyReference.cache
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\obj\Release\Helpa.Services.csproj.CoreCompileInputs.cache
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\obj\Release\Helpa.Services.csproj.CopyComplete
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\obj\Release\Helpa.Services.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Services\obj\Release\Helpa.Services.pdb

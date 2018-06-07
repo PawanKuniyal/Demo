@@ -1,0 +1,267 @@
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\ApplicationInsights.config
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Helpa.Api.dll.config
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Helpa.Api.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Helpa.Api.pdb
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Antlr3.Runtime.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\EntityFramework.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Helpa.Entities.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Helpa.Services.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Helpa.StoredProcedures.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Cors.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Security.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Newtonsoft.Json.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Owin.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Cors.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Helpers.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Http.Cors.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Http.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Http.Owin.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Mvc.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Optimization.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Razor.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.WebPages.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\WebGrease.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Helpa.Entities.pdb
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Helpa.Entities.dll.config
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Helpa.Services.pdb
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Helpa.Services.dll.config
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Helpa.StoredProcedures.pdb
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Helpa.StoredProcedures.dll.config
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Antlr3.Runtime.pdb
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\EntityFramework.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Cors.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Security.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Newtonsoft.Json.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Helpers.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Http.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Http.Cors.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Http.Owin.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Mvc.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Razor.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.WebPages.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\System.Web.Optimization.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\obj\Debug\Helpa.Api.csprojResolveAssemblyReference.cache
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\obj\Debug\Helpa.Api.Migrations.NewUser.resources
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\obj\Debug\Helpa.Api.Migrations.UserLogDB.resources
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\obj\Debug\Helpa.Api.csproj.GenerateResource.cache
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\obj\Debug\Helpa.Api.csproj.CoreCompileInputs.cache
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\obj\Debug\Helpa.Api.csproj.CopyComplete
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\obj\Debug\Helpa.Api.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.Api\obj\Debug\Helpa.Api.pdb
+D:\Helpa15-05-2018\Helpa.Api\bin\ApplicationInsights.config
+D:\Helpa15-05-2018\Helpa.Api\bin\Helpa.Api.dll.config
+D:\Helpa15-05-2018\Helpa.Api\bin\Helpa.Api.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Helpa.Api.pdb
+D:\Helpa15-05-2018\Helpa.Api\bin\Antlr3.Runtime.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\EntityFramework.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\EntityFramework.SqlServer.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Helpa.Entities.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Helpa.Services.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Helpa.StoredProcedures.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Cors.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Security.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Security.Google.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Newtonsoft.Json.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Owin.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Net.Http.Formatting.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Cors.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Helpers.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Http.Cors.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Http.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Http.Owin.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Http.WebHost.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Mvc.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Optimization.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Razor.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.WebPages.Deployment.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.WebPages.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.WebPages.Razor.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\WebGrease.dll
+D:\Helpa15-05-2018\Helpa.Api\bin\Helpa.Entities.pdb
+D:\Helpa15-05-2018\Helpa.Api\bin\Helpa.Entities.dll.config
+D:\Helpa15-05-2018\Helpa.Api\bin\Helpa.Services.pdb
+D:\Helpa15-05-2018\Helpa.Api\bin\Helpa.Services.dll.config
+D:\Helpa15-05-2018\Helpa.Api\bin\Helpa.StoredProcedures.pdb
+D:\Helpa15-05-2018\Helpa.Api\bin\Helpa.StoredProcedures.dll.config
+D:\Helpa15-05-2018\Helpa.Api\bin\Antlr3.Runtime.pdb
+D:\Helpa15-05-2018\Helpa.Api\bin\EntityFramework.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\EntityFramework.SqlServer.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Cors.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Security.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Security.Google.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Newtonsoft.Json.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Net.Http.Formatting.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Helpers.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Http.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Http.Cors.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Http.Owin.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Http.WebHost.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Mvc.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Razor.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.WebPages.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.WebPages.Deployment.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.WebPages.Razor.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\System.Web.Optimization.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Helpa15-05-2018\Helpa.Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Helpa15-05-2018\Helpa.Api\obj\Debug\Helpa.Api.csprojResolveAssemblyReference.cache
+D:\Helpa15-05-2018\Helpa.Api\obj\Debug\Helpa.Api.csproj.CoreCompileInputs.cache
+D:\Helpa15-05-2018\Helpa.Api\obj\Debug\Helpa.Api.csproj.CopyComplete
+D:\Helpa15-05-2018\Helpa.Api\obj\Debug\Helpa.Api.dll
+D:\Helpa15-05-2018\Helpa.Api\obj\Debug\Helpa.Api.pdb
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\ApplicationInsights.config
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Helpa.Api.dll.config
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Helpa.Api.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Helpa.Api.pdb
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Antlr3.Runtime.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\EntityFramework.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\EntityFramework.SqlServer.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Helpa.Entities.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Helpa.Services.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Helpa.StoredProcedures.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Cors.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Security.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Security.Google.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Newtonsoft.Json.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Owin.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Net.Http.Formatting.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Cors.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Helpers.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Http.Cors.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Http.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Http.Owin.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Http.WebHost.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Mvc.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Optimization.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Razor.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.WebPages.Deployment.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.WebPages.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.WebPages.Razor.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\WebGrease.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Helpa.Entities.pdb
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Helpa.Entities.dll.config
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Helpa.Services.pdb
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Helpa.Services.dll.config
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Helpa.StoredProcedures.pdb
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Helpa.StoredProcedures.dll.config
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Antlr3.Runtime.pdb
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\EntityFramework.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\EntityFramework.SqlServer.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Cors.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Security.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Security.Google.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Newtonsoft.Json.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Net.Http.Formatting.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Helpers.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Http.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Http.Cors.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Http.Owin.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Http.WebHost.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Mvc.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Razor.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.WebPages.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.WebPages.Deployment.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.WebPages.Razor.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\System.Web.Optimization.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\obj\Debug\Helpa.Api.csprojResolveAssemblyReference.cache
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\obj\Debug\Helpa.Api.csproj.CoreCompileInputs.cache
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\obj\Debug\Helpa.Api.csproj.CopyComplete
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\obj\Debug\Helpa.Api.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.Api\obj\Debug\Helpa.Api.pdb

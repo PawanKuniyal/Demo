@@ -1,0 +1,45 @@
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\bin\Release\Helpa.StoredProcedures.dll.config
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\bin\Release\Helpa.StoredProcedures.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\bin\Release\Helpa.StoredProcedures.pdb
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\bin\Release\EntityFramework.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\bin\Release\Helpa.Entities.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\bin\Release\Helpa.Entities.pdb
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\bin\Release\Helpa.Entities.dll.config
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\bin\Release\EntityFramework.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.csprojResolveAssemblyReference.cache
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.csproj.CoreCompileInputs.cache
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.csproj.CopyComplete
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.dll
+C:\Users\zeeshan\source\repos\Helpa\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.pdb
+D:\Helpa15-05-2018\Helpa.StoredProcedures\bin\Release\Helpa.StoredProcedures.dll.config
+D:\Helpa15-05-2018\Helpa.StoredProcedures\bin\Release\Helpa.StoredProcedures.dll
+D:\Helpa15-05-2018\Helpa.StoredProcedures\bin\Release\Helpa.StoredProcedures.pdb
+D:\Helpa15-05-2018\Helpa.StoredProcedures\bin\Release\EntityFramework.dll
+D:\Helpa15-05-2018\Helpa.StoredProcedures\bin\Release\EntityFramework.SqlServer.dll
+D:\Helpa15-05-2018\Helpa.StoredProcedures\bin\Release\Helpa.Entities.dll
+D:\Helpa15-05-2018\Helpa.StoredProcedures\bin\Release\Helpa.Entities.pdb
+D:\Helpa15-05-2018\Helpa.StoredProcedures\bin\Release\Helpa.Entities.dll.config
+D:\Helpa15-05-2018\Helpa.StoredProcedures\bin\Release\EntityFramework.xml
+D:\Helpa15-05-2018\Helpa.StoredProcedures\bin\Release\EntityFramework.SqlServer.xml
+D:\Helpa15-05-2018\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.csprojResolveAssemblyReference.cache
+D:\Helpa15-05-2018\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.csproj.CoreCompileInputs.cache
+D:\Helpa15-05-2018\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.csproj.CopyComplete
+D:\Helpa15-05-2018\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.dll
+D:\Helpa15-05-2018\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.pdb
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\bin\Release\Helpa.StoredProcedures.dll.config
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\bin\Release\Helpa.StoredProcedures.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\bin\Release\Helpa.StoredProcedures.pdb
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\bin\Release\EntityFramework.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\bin\Release\EntityFramework.SqlServer.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\bin\Release\Helpa.Entities.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\bin\Release\Helpa.Entities.pdb
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\bin\Release\Helpa.Entities.dll.config
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\bin\Release\EntityFramework.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\bin\Release\EntityFramework.SqlServer.xml
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.csprojResolveAssemblyReference.cache
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.csproj.CoreCompileInputs.cache
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.csproj.CopyComplete
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.dll
+D:\Helpa15-05-2018 - Copy - Copy (2)\Helpa.StoredProcedures\obj\Release\Helpa.StoredProcedures.pdb
